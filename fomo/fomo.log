@@ -1,0 +1,32 @@
+[INFO ] 2018-09-27 21:37:24,572 method:fomo.run(fomo.java:66)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-27 21:37:26,968 method:fomo.run(fomo.java:76)
+当前区块：6409329
+[INFO ] 2018-09-27 21:37:26,972 method:fomo.buyIn(fomo.java:152)
+===================开始第1次检查=====================
+[INFO ] 2018-09-27 21:37:29,687 method:fomo.buyIn(fomo.java:158)
+交易数量：24 
+[INFO ] 2018-09-27 21:37:29,935 method:fomo.buyIn(fomo.java:162)
+当前价格：378009745986938 
+[INFO ] 2018-09-27 21:37:30,408 method:fomo.buyIn(fomo.java:186)
+剩余时间: 84945
+[INFO ] 2018-09-27 21:37:30,408 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:37:30,409 method:fomo.buyIn(fomo.java:212)
+<<<<<<<<<<<<<继续等待 8494 秒
+[INFO ] 2018-09-27 22:43:57,989 method:fomo.run(fomo.java:66)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-27 22:44:00,958 method:fomo.run(fomo.java:76)
+当前区块：6409609
+[INFO ] 2018-09-27 22:44:00,963 method:fomo.buyIn(fomo.java:152)
+===================开始第1次检查=====================
+[INFO ] 2018-09-27 22:44:02,044 method:fomo.buyIn(fomo.java:158)
+交易数量：94 
+[INFO ] 2018-09-27 22:44:02,357 method:fomo.buyIn(fomo.java:162)
+当前价格：378071554837247 
+[INFO ] 2018-09-27 22:44:02,928 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85938
+[INFO ] 2018-09-27 22:44:02,929 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 22:44:02,929 method:fomo.buyIn(fomo.java:212)
+<<<<<<<<<<<<<继续等待 8593 秒

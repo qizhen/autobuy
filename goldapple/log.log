@@ -1,0 +1,38 @@
+[INFO ] 2018-09-27 19:35:05,261 method:goldapple.run(goldapple.java:66)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-27 19:36:06,749 method:goldapple.run(goldapple.java:66)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-27 19:36:08,878 method:goldapple.run(goldapple.java:76)
+当前区块：6408834
+[INFO ] 2018-09-27 19:36:08,879 method:goldapple.buyIn(goldapple.java:149)
+===================开始第1次检查=====================
+[INFO ] 2018-09-27 19:36:09,754 method:goldapple.buyIn(goldapple.java:155)
+交易数量：58 
+[INFO ] 2018-09-27 19:36:10,067 method:goldapple.buyIn(goldapple.java:159)
+当前价格：1139403562801018 
+[INFO ] 2018-09-27 19:36:10,638 method:goldapple.buyIn(goldapple.java:182)
+剩余时间: 24289
+[INFO ] 2018-09-27 19:36:10,639 method:goldapple.buyIn(goldapple.java:184)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:31:25,274 method:goldapple.run(goldapple.java:67)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-27 21:31:27,612 method:goldapple.run(goldapple.java:77)
+当前区块：6409304
+[INFO ] 2018-09-27 21:31:27,613 method:goldapple.buyIn(goldapple.java:153)
+===================开始第1次检查=====================
+[INFO ] 2018-09-27 21:32:00,390 method:goldapple.run(goldapple.java:67)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-27 21:32:02,617 method:goldapple.run(goldapple.java:77)
+当前区块：6409308
+[INFO ] 2018-09-27 21:32:02,618 method:goldapple.buyIn(goldapple.java:153)
+===================开始第1次检查=====================
+[INFO ] 2018-09-27 21:32:03,910 method:goldapple.buyIn(goldapple.java:159)
+交易数量：171 
+[INFO ] 2018-09-27 21:32:04,197 method:goldapple.buyIn(goldapple.java:163)
+当前价格：1139403562801018 
+[INFO ] 2018-09-27 21:32:04,750 method:goldapple.buyIn(goldapple.java:187)
+剩余时间: 17332
+[INFO ] 2018-09-27 21:32:04,750 method:goldapple.buyIn(goldapple.java:189)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:32:04,751 method:goldapple.buyIn(goldapple.java:213)
+<<<<<<<<<<<<<继续等待 1733 秒

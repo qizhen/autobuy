@@ -1,0 +1,1072 @@
+[INFO ] 2018-09-27 20:49:52,327 method:fomo.run(fomo.java:66)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-27 20:49:54,764 method:fomo.run(fomo.java:76)
+当前区块：6409128
+[INFO ] 2018-09-27 20:49:54,766 method:fomo.buyIn(fomo.java:164)
+===================开始第1次检查=====================
+[INFO ] 2018-09-27 20:49:58,409 method:fomo.buyIn(fomo.java:170)
+交易数量：62 
+[INFO ] 2018-09-27 20:49:58,804 method:fomo.buyIn(fomo.java:174)
+当前价格：377916152277046 
+[INFO ] 2018-09-27 20:49:59,725 method:fomo.buyIn(fomo.java:198)
+剩余时间: 75584
+[INFO ] 2018-09-27 20:49:59,725 method:fomo.buyIn(fomo.java:200)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 20:58:40,395 method:fomo.run(fomo.java:66)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-27 20:58:42,142 method:fomo.run(fomo.java:76)
+当前区块：6409162
+[INFO ] 2018-09-27 20:58:42,143 method:fomo.buyIn(fomo.java:152)
+===================开始第1次检查=====================
+[INFO ] 2018-09-27 20:58:43,065 method:fomo.buyIn(fomo.java:158)
+交易数量：173 
+[INFO ] 2018-09-27 20:58:43,380 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 20:58:43,890 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86263
+[INFO ] 2018-09-27 20:58:43,890 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 20:58:53,890 method:fomo.buyIn(fomo.java:152)
+===================开始第2次检查=====================
+[INFO ] 2018-09-27 20:58:54,356 method:fomo.buyIn(fomo.java:158)
+交易数量：152 
+[INFO ] 2018-09-27 20:58:55,210 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 20:58:55,708 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86183
+[INFO ] 2018-09-27 20:58:55,709 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 20:59:05,709 method:fomo.buyIn(fomo.java:152)
+===================开始第3次检查=====================
+[INFO ] 2018-09-27 20:59:06,179 method:fomo.buyIn(fomo.java:158)
+交易数量：128 
+[INFO ] 2018-09-27 20:59:08,143 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 20:59:09,108 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86156
+[INFO ] 2018-09-27 20:59:09,110 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 20:59:19,111 method:fomo.buyIn(fomo.java:152)
+===================开始第4次检查=====================
+[INFO ] 2018-09-27 20:59:19,609 method:fomo.buyIn(fomo.java:158)
+交易数量：81 
+[INFO ] 2018-09-27 20:59:19,911 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 20:59:20,401 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86148
+[INFO ] 2018-09-27 20:59:20,401 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 20:59:30,401 method:fomo.buyIn(fomo.java:152)
+===================开始第5次检查=====================
+[INFO ] 2018-09-27 20:59:30,861 method:fomo.buyIn(fomo.java:158)
+交易数量：60 
+[INFO ] 2018-09-27 20:59:31,112 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 20:59:31,647 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86136
+[INFO ] 2018-09-27 20:59:31,647 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 20:59:41,648 method:fomo.buyIn(fomo.java:152)
+===================开始第6次检查=====================
+[INFO ] 2018-09-27 20:59:42,108 method:fomo.buyIn(fomo.java:158)
+交易数量：62 
+[INFO ] 2018-09-27 20:59:42,375 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 20:59:42,868 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86131
+[INFO ] 2018-09-27 20:59:42,868 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 20:59:52,869 method:fomo.buyIn(fomo.java:152)
+===================开始第7次检查=====================
+[INFO ] 2018-09-27 20:59:53,330 method:fomo.buyIn(fomo.java:158)
+交易数量：93 
+[INFO ] 2018-09-27 20:59:53,577 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 20:59:54,233 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86131
+[INFO ] 2018-09-27 20:59:54,234 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 20:59:59,910 method:fomo.run(fomo.java:66)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-27 21:00:02,075 method:fomo.run(fomo.java:76)
+当前区块：6409170
+[INFO ] 2018-09-27 21:00:02,077 method:fomo.buyIn(fomo.java:152)
+===================开始第1次检查=====================
+[INFO ] 2018-09-27 21:00:02,772 method:fomo.buyIn(fomo.java:158)
+交易数量：65 
+[INFO ] 2018-09-27 21:00:03,185 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:00:04,150 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86113
+[INFO ] 2018-09-27 21:00:04,150 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:00:04,234 method:fomo.buyIn(fomo.java:152)
+===================开始第8次检查=====================
+[INFO ] 2018-09-27 21:00:04,690 method:fomo.buyIn(fomo.java:158)
+交易数量：76 
+[INFO ] 2018-09-27 21:00:05,563 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:00:06,219 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86113
+[INFO ] 2018-09-27 21:00:06,219 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:00:09,151 method:fomo.buyIn(fomo.java:152)
+===================开始第2次检查=====================
+[INFO ] 2018-09-27 21:00:09,727 method:fomo.buyIn(fomo.java:158)
+交易数量：72 
+[INFO ] 2018-09-27 21:00:10,979 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:00:12,903 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86113
+[INFO ] 2018-09-27 21:00:12,904 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:00:16,219 method:fomo.buyIn(fomo.java:152)
+===================开始第9次检查=====================
+[INFO ] 2018-09-27 21:00:16,726 method:fomo.buyIn(fomo.java:158)
+交易数量：76 
+[INFO ] 2018-09-27 21:00:16,976 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:00:17,499 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86102
+[INFO ] 2018-09-27 21:00:17,500 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:00:17,905 method:fomo.buyIn(fomo.java:152)
+===================开始第3次检查=====================
+[INFO ] 2018-09-27 21:00:18,596 method:fomo.buyIn(fomo.java:158)
+交易数量：76 
+[INFO ] 2018-09-27 21:00:18,842 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:00:19,662 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86102
+[INFO ] 2018-09-27 21:00:19,663 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:00:24,663 method:fomo.buyIn(fomo.java:152)
+===================开始第4次检查=====================
+[INFO ] 2018-09-27 21:00:25,597 method:fomo.buyIn(fomo.java:158)
+交易数量：169 
+[INFO ] 2018-09-27 21:00:25,849 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:00:26,400 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86102
+[INFO ] 2018-09-27 21:00:26,400 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:00:27,500 method:fomo.buyIn(fomo.java:152)
+===================开始第10次检查=====================
+[INFO ] 2018-09-27 21:00:27,968 method:fomo.buyIn(fomo.java:158)
+交易数量：165 
+[INFO ] 2018-09-27 21:00:28,227 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:00:28,758 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86102
+[INFO ] 2018-09-27 21:00:28,758 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:00:31,402 method:fomo.buyIn(fomo.java:152)
+===================开始第5次检查=====================
+[INFO ] 2018-09-27 21:00:31,877 method:fomo.buyIn(fomo.java:158)
+交易数量：165 
+[INFO ] 2018-09-27 21:00:32,124 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:00:33,551 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86062
+[INFO ] 2018-09-27 21:00:33,551 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:00:38,552 method:fomo.buyIn(fomo.java:152)
+===================开始第6次检查=====================
+[INFO ] 2018-09-27 21:00:38,760 method:fomo.buyIn(fomo.java:152)
+===================开始第11次检查=====================
+[INFO ] 2018-09-27 21:00:39,076 method:fomo.buyIn(fomo.java:158)
+交易数量：120 
+[INFO ] 2018-09-27 21:00:39,247 method:fomo.buyIn(fomo.java:158)
+交易数量：120 
+[INFO ] 2018-09-27 21:00:39,359 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:00:39,496 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:00:39,946 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86102
+[INFO ] 2018-09-27 21:00:39,946 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:00:40,027 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86102
+[INFO ] 2018-09-27 21:00:40,027 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:00:44,947 method:fomo.buyIn(fomo.java:152)
+===================开始第7次检查=====================
+[INFO ] 2018-09-27 21:00:45,409 method:fomo.buyIn(fomo.java:158)
+交易数量：131 
+[INFO ] 2018-09-27 21:00:45,664 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:00:46,160 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86102
+[INFO ] 2018-09-27 21:00:46,160 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:00:50,028 method:fomo.buyIn(fomo.java:152)
+===================开始第12次检查=====================
+[INFO ] 2018-09-27 21:00:50,487 method:fomo.buyIn(fomo.java:158)
+交易数量：121 
+[INFO ] 2018-09-27 21:00:50,729 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:00:51,160 method:fomo.buyIn(fomo.java:152)
+===================开始第8次检查=====================
+[INFO ] 2018-09-27 21:00:51,231 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86062
+[INFO ] 2018-09-27 21:00:51,231 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:00:51,628 method:fomo.buyIn(fomo.java:158)
+交易数量：121 
+[INFO ] 2018-09-27 21:00:51,876 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:00:52,388 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86061
+[INFO ] 2018-09-27 21:00:52,388 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:00:57,389 method:fomo.buyIn(fomo.java:152)
+===================开始第9次检查=====================
+[INFO ] 2018-09-27 21:00:57,862 method:fomo.buyIn(fomo.java:158)
+交易数量：131 
+[INFO ] 2018-09-27 21:00:58,453 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:00:58,964 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86061
+[INFO ] 2018-09-27 21:00:58,964 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:01:01,231 method:fomo.buyIn(fomo.java:152)
+===================开始第13次检查=====================
+[INFO ] 2018-09-27 21:01:01,700 method:fomo.buyIn(fomo.java:158)
+交易数量：131 
+[INFO ] 2018-09-27 21:01:01,978 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:01:02,485 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86061
+[INFO ] 2018-09-27 21:01:02,486 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:01:03,965 method:fomo.buyIn(fomo.java:152)
+===================开始第10次检查=====================
+[INFO ] 2018-09-27 21:01:04,428 method:fomo.buyIn(fomo.java:158)
+交易数量：133 
+[INFO ] 2018-09-27 21:01:04,970 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:01:05,714 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86061
+[INFO ] 2018-09-27 21:01:05,715 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:01:10,716 method:fomo.buyIn(fomo.java:152)
+===================开始第11次检查=====================
+[INFO ] 2018-09-27 21:01:11,191 method:fomo.buyIn(fomo.java:158)
+交易数量：128 
+[INFO ] 2018-09-27 21:01:11,438 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:01:11,944 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86061
+[INFO ] 2018-09-27 21:01:11,945 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:01:12,488 method:fomo.buyIn(fomo.java:152)
+===================开始第14次检查=====================
+[INFO ] 2018-09-27 21:01:12,953 method:fomo.buyIn(fomo.java:158)
+交易数量：126 
+[INFO ] 2018-09-27 21:01:14,556 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:01:15,091 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86044
+[INFO ] 2018-09-27 21:01:15,091 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:01:16,947 method:fomo.buyIn(fomo.java:152)
+===================开始第12次检查=====================
+[INFO ] 2018-09-27 21:01:17,419 method:fomo.buyIn(fomo.java:158)
+交易数量：119 
+[INFO ] 2018-09-27 21:01:17,671 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:01:18,207 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86044
+[INFO ] 2018-09-27 21:01:18,207 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:01:23,208 method:fomo.buyIn(fomo.java:152)
+===================开始第13次检查=====================
+[INFO ] 2018-09-27 21:01:23,674 method:fomo.buyIn(fomo.java:158)
+交易数量：122 
+[INFO ] 2018-09-27 21:01:23,924 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:01:24,547 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86022
+[INFO ] 2018-09-27 21:01:24,548 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:01:25,093 method:fomo.buyIn(fomo.java:152)
+===================开始第15次检查=====================
+[INFO ] 2018-09-27 21:01:25,563 method:fomo.buyIn(fomo.java:158)
+交易数量：120 
+[INFO ] 2018-09-27 21:01:25,872 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:01:26,382 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86022
+[INFO ] 2018-09-27 21:01:26,382 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:01:29,548 method:fomo.buyIn(fomo.java:152)
+===================开始第14次检查=====================
+[INFO ] 2018-09-27 21:01:30,046 method:fomo.buyIn(fomo.java:158)
+交易数量：81 
+[INFO ] 2018-09-27 21:01:30,714 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:01:31,323 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86011
+[INFO ] 2018-09-27 21:01:31,323 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:01:36,325 method:fomo.buyIn(fomo.java:152)
+===================开始第15次检查=====================
+[INFO ] 2018-09-27 21:01:36,382 method:fomo.buyIn(fomo.java:152)
+===================开始第16次检查=====================
+[INFO ] 2018-09-27 21:01:36,853 method:fomo.buyIn(fomo.java:158)
+交易数量：105 
+[INFO ] 2018-09-27 21:01:36,913 method:fomo.buyIn(fomo.java:158)
+交易数量：105 
+[INFO ] 2018-09-27 21:01:37,138 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:01:37,224 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:01:37,990 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86011
+[INFO ] 2018-09-27 21:01:37,990 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:01:40,577 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86011
+[INFO ] 2018-09-27 21:01:40,577 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:01:42,991 method:fomo.buyIn(fomo.java:152)
+===================开始第16次检查=====================
+[INFO ] 2018-09-27 21:01:43,811 method:fomo.buyIn(fomo.java:158)
+交易数量：74 
+[INFO ] 2018-09-27 21:01:44,091 method:fomo.buyIn(fomo.java:162)
+当前价格：377999589777046 
+[INFO ] 2018-09-27 21:01:44,685 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86011
+[INFO ] 2018-09-27 21:01:44,685 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:01:49,685 method:fomo.buyIn(fomo.java:152)
+===================开始第17次检查=====================
+[INFO ] 2018-09-27 21:01:50,505 method:fomo.buyIn(fomo.java:158)
+交易数量：75 
+[INFO ] 2018-09-27 21:01:50,578 method:fomo.buyIn(fomo.java:152)
+===================开始第17次检查=====================
+[INFO ] 2018-09-27 21:01:50,779 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:01:51,107 method:fomo.buyIn(fomo.java:158)
+交易数量：75 
+[INFO ] 2018-09-27 21:01:51,399 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:01:51,605 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86002
+[INFO ] 2018-09-27 21:01:51,605 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:01:52,094 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86002
+[INFO ] 2018-09-27 21:01:52,094 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:01:56,605 method:fomo.buyIn(fomo.java:152)
+===================开始第18次检查=====================
+[INFO ] 2018-09-27 21:01:57,200 method:fomo.buyIn(fomo.java:158)
+交易数量：74 
+[INFO ] 2018-09-27 21:01:57,498 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:01:58,626 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86002
+[INFO ] 2018-09-27 21:01:58,627 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:02:02,095 method:fomo.buyIn(fomo.java:152)
+===================开始第18次检查=====================
+[INFO ] 2018-09-27 21:02:02,573 method:fomo.buyIn(fomo.java:158)
+交易数量：44 
+[INFO ] 2018-09-27 21:02:02,857 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:02:03,592 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85983
+[INFO ] 2018-09-27 21:02:03,592 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:02:03,627 method:fomo.buyIn(fomo.java:152)
+===================开始第19次检查=====================
+[INFO ] 2018-09-27 21:02:04,199 method:fomo.buyIn(fomo.java:158)
+交易数量：44 
+[INFO ] 2018-09-27 21:02:04,510 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:02:05,191 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85983
+[INFO ] 2018-09-27 21:02:05,191 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:02:10,192 method:fomo.buyIn(fomo.java:152)
+===================开始第20次检查=====================
+[INFO ] 2018-09-27 21:02:11,095 method:fomo.buyIn(fomo.java:158)
+交易数量：44 
+[INFO ] 2018-09-27 21:02:11,688 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:02:12,831 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85983
+[INFO ] 2018-09-27 21:02:12,832 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:02:13,593 method:fomo.buyIn(fomo.java:152)
+===================开始第19次检查=====================
+[INFO ] 2018-09-27 21:02:14,198 method:fomo.buyIn(fomo.java:158)
+交易数量：44 
+[INFO ] 2018-09-27 21:02:14,863 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:02:15,512 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85983
+[INFO ] 2018-09-27 21:02:15,512 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:02:17,832 method:fomo.buyIn(fomo.java:152)
+===================开始第21次检查=====================
+[INFO ] 2018-09-27 21:02:19,530 method:fomo.buyIn(fomo.java:158)
+交易数量：100 
+[INFO ] 2018-09-27 21:02:20,205 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:02:20,865 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85977
+[INFO ] 2018-09-27 21:02:20,865 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:02:25,516 method:fomo.buyIn(fomo.java:152)
+===================开始第20次检查=====================
+[INFO ] 2018-09-27 21:02:25,865 method:fomo.buyIn(fomo.java:152)
+===================开始第22次检查=====================
+[INFO ] 2018-09-27 21:02:26,131 method:fomo.buyIn(fomo.java:158)
+交易数量：108 
+[INFO ] 2018-09-27 21:02:26,450 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:02:27,130 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85977
+[INFO ] 2018-09-27 21:02:27,130 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:02:27,354 method:fomo.buyIn(fomo.java:158)
+交易数量：108 
+[INFO ] 2018-09-27 21:02:27,673 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:02:28,850 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85977
+[INFO ] 2018-09-27 21:02:28,850 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:02:33,850 method:fomo.buyIn(fomo.java:152)
+===================开始第23次检查=====================
+[INFO ] 2018-09-27 21:02:37,130 method:fomo.buyIn(fomo.java:152)
+===================开始第21次检查=====================
+[INFO ] 2018-09-27 21:02:37,660 method:fomo.buyIn(fomo.java:158)
+交易数量：99 
+[INFO ] 2018-09-27 21:02:37,760 method:fomo.buyIn(fomo.java:158)
+交易数量：99 
+[INFO ] 2018-09-27 21:02:37,967 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:02:38,079 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:02:38,757 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85959
+[INFO ] 2018-09-27 21:02:38,757 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:02:38,935 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85959
+[INFO ] 2018-09-27 21:02:38,936 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:02:43,759 method:fomo.buyIn(fomo.java:152)
+===================开始第24次检查=====================
+[INFO ] 2018-09-27 21:02:46,081 method:fomo.buyIn(fomo.java:158)
+交易数量：69 
+[INFO ] 2018-09-27 21:02:46,583 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:02:47,269 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85957
+[INFO ] 2018-09-27 21:02:47,269 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:02:48,936 method:fomo.buyIn(fomo.java:152)
+===================开始第22次检查=====================
+[INFO ] 2018-09-27 21:02:49,528 method:fomo.buyIn(fomo.java:158)
+交易数量：51 
+[INFO ] 2018-09-27 21:02:49,856 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:02:50,658 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85959
+[INFO ] 2018-09-27 21:02:50,658 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:02:52,269 method:fomo.buyIn(fomo.java:152)
+===================开始第25次检查=====================
+[INFO ] 2018-09-27 21:02:54,078 method:fomo.buyIn(fomo.java:158)
+交易数量：51 
+[INFO ] 2018-09-27 21:02:54,925 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:02:55,619 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85922
+[INFO ] 2018-09-27 21:02:55,619 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:03:00,620 method:fomo.buyIn(fomo.java:152)
+===================开始第26次检查=====================
+[INFO ] 2018-09-27 21:03:00,669 method:fomo.buyIn(fomo.java:152)
+===================开始第23次检查=====================
+[INFO ] 2018-09-27 21:03:01,272 method:fomo.buyIn(fomo.java:158)
+交易数量：35 
+[INFO ] 2018-09-27 21:03:01,728 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:03:02,378 method:fomo.buyIn(fomo.java:158)
+交易数量：35 
+[INFO ] 2018-09-27 21:03:02,757 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:03:03,234 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85922
+[INFO ] 2018-09-27 21:03:03,234 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:03:03,724 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85959
+[INFO ] 2018-09-27 21:03:03,724 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:03:08,725 method:fomo.buyIn(fomo.java:152)
+===================开始第27次检查=====================
+[INFO ] 2018-09-27 21:03:10,238 method:fomo.buyIn(fomo.java:158)
+交易数量：21 
+[INFO ] 2018-09-27 21:03:10,864 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:03:11,939 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85922
+[INFO ] 2018-09-27 21:03:11,939 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:03:13,235 method:fomo.buyIn(fomo.java:152)
+===================开始第24次检查=====================
+[INFO ] 2018-09-27 21:03:13,830 method:fomo.buyIn(fomo.java:158)
+交易数量：57 
+[INFO ] 2018-09-27 21:03:14,625 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:03:15,733 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85922
+[INFO ] 2018-09-27 21:03:15,733 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:03:16,939 method:fomo.buyIn(fomo.java:152)
+===================开始第28次检查=====================
+[INFO ] 2018-09-27 21:03:18,958 method:fomo.buyIn(fomo.java:158)
+交易数量：56 
+[INFO ] 2018-09-27 21:03:19,278 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:03:19,921 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85905
+[INFO ] 2018-09-27 21:03:19,921 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:03:24,922 method:fomo.buyIn(fomo.java:152)
+===================开始第29次检查=====================
+[INFO ] 2018-09-27 21:03:25,733 method:fomo.buyIn(fomo.java:152)
+===================开始第25次检查=====================
+[INFO ] 2018-09-27 21:03:26,414 method:fomo.buyIn(fomo.java:158)
+交易数量：143 
+[INFO ] 2018-09-27 21:03:26,896 method:fomo.buyIn(fomo.java:158)
+交易数量：151 
+[INFO ] 2018-09-27 21:03:27,205 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:03:27,781 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85905
+[INFO ] 2018-09-27 21:03:27,781 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:03:29,766 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:03:30,783 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85905
+[INFO ] 2018-09-27 21:03:30,783 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:03:32,784 method:fomo.buyIn(fomo.java:152)
+===================开始第30次检查=====================
+[INFO ] 2018-09-27 21:03:34,593 method:fomo.buyIn(fomo.java:158)
+交易数量：141 
+[INFO ] 2018-09-27 21:03:35,208 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:03:35,972 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85905
+[INFO ] 2018-09-27 21:03:35,973 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:03:40,783 method:fomo.buyIn(fomo.java:152)
+===================开始第26次检查=====================
+[INFO ] 2018-09-27 21:03:40,974 method:fomo.buyIn(fomo.java:152)
+===================开始第31次检查=====================
+[INFO ] 2018-09-27 21:03:42,370 method:fomo.buyIn(fomo.java:158)
+交易数量：135 
+[INFO ] 2018-09-27 21:03:42,649 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:03:43,967 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85894
+[INFO ] 2018-09-27 21:03:43,967 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:03:48,967 method:fomo.buyIn(fomo.java:152)
+===================开始第32次检查=====================
+[INFO ] 2018-09-27 21:03:50,183 method:fomo.buyIn(fomo.java:158)
+交易数量：130 
+[INFO ] 2018-09-27 21:03:50,496 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:03:51,103 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85894
+[INFO ] 2018-09-27 21:03:51,103 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:03:52,824 method:fomo.buyIn(fomo.java:158)
+交易数量：135 
+[INFO ] 2018-09-27 21:03:53,265 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:03:54,120 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85863
+[INFO ] 2018-09-27 21:03:54,121 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:03:56,104 method:fomo.buyIn(fomo.java:152)
+===================开始第33次检查=====================
+[INFO ] 2018-09-27 21:03:56,665 method:fomo.buyIn(fomo.java:158)
+交易数量：36 
+[INFO ] 2018-09-27 21:03:56,978 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:03:57,616 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85863
+[INFO ] 2018-09-27 21:03:57,616 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:04:02,616 method:fomo.buyIn(fomo.java:152)
+===================开始第34次检查=====================
+[INFO ] 2018-09-27 21:04:03,172 method:fomo.buyIn(fomo.java:158)
+交易数量：27 
+[INFO ] 2018-09-27 21:04:03,567 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:04:04,121 method:fomo.buyIn(fomo.java:152)
+===================开始第27次检查=====================
+[INFO ] 2018-09-27 21:04:04,192 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85863
+[INFO ] 2018-09-27 21:04:04,192 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:04:09,193 method:fomo.buyIn(fomo.java:152)
+===================开始第35次检查=====================
+[INFO ] 2018-09-27 21:04:09,792 method:fomo.buyIn(fomo.java:158)
+交易数量：41 
+[INFO ] 2018-09-27 21:04:10,201 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:04:10,941 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85863
+[INFO ] 2018-09-27 21:04:10,941 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:04:15,942 method:fomo.buyIn(fomo.java:152)
+===================开始第36次检查=====================
+[INFO ] 2018-09-27 21:04:16,529 method:fomo.buyIn(fomo.java:158)
+交易数量：53 
+[INFO ] 2018-09-27 21:04:17,040 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:04:17,206 method:fomo.buyIn(fomo.java:158)
+交易数量：27 
+[INFO ] 2018-09-27 21:04:17,614 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:04:17,654 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85842
+[INFO ] 2018-09-27 21:04:17,654 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:04:18,673 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85842
+[INFO ] 2018-09-27 21:04:18,673 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:04:22,654 method:fomo.buyIn(fomo.java:152)
+===================开始第37次检查=====================
+[INFO ] 2018-09-27 21:04:23,438 method:fomo.buyIn(fomo.java:158)
+交易数量：40 
+[INFO ] 2018-09-27 21:04:23,734 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:04:25,226 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85839
+[INFO ] 2018-09-27 21:04:25,227 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:04:28,674 method:fomo.buyIn(fomo.java:152)
+===================开始第28次检查=====================
+[INFO ] 2018-09-27 21:04:30,228 method:fomo.buyIn(fomo.java:152)
+===================开始第38次检查=====================
+[INFO ] 2018-09-27 21:04:30,866 method:fomo.buyIn(fomo.java:158)
+交易数量：47 
+[INFO ] 2018-09-27 21:04:31,201 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:04:32,159 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85860
+[INFO ] 2018-09-27 21:04:32,159 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:04:34,871 method:fomo.buyIn(fomo.java:158)
+交易数量：46 
+[INFO ] 2018-09-27 21:04:35,294 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:04:36,123 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85834
+[INFO ] 2018-09-27 21:04:36,123 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:04:37,160 method:fomo.buyIn(fomo.java:152)
+===================开始第39次检查=====================
+[INFO ] 2018-09-27 21:04:38,010 method:fomo.buyIn(fomo.java:158)
+交易数量：43 
+[INFO ] 2018-09-27 21:04:38,681 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:04:39,619 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85834
+[INFO ] 2018-09-27 21:04:39,619 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:04:44,620 method:fomo.buyIn(fomo.java:152)
+===================开始第40次检查=====================
+[INFO ] 2018-09-27 21:04:45,477 method:fomo.buyIn(fomo.java:158)
+交易数量：54 
+[INFO ] 2018-09-27 21:04:45,773 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:04:46,124 method:fomo.buyIn(fomo.java:152)
+===================开始第29次检查=====================
+[INFO ] 2018-09-27 21:04:46,352 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85834
+[INFO ] 2018-09-27 21:04:46,352 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:04:51,353 method:fomo.buyIn(fomo.java:152)
+===================开始第41次检查=====================
+[INFO ] 2018-09-27 21:04:51,734 method:fomo.buyIn(fomo.java:158)
+交易数量：45 
+[INFO ] 2018-09-27 21:04:52,318 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:04:52,435 method:fomo.buyIn(fomo.java:158)
+交易数量：49 
+[INFO ] 2018-09-27 21:04:52,738 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:04:53,132 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85826
+[INFO ] 2018-09-27 21:04:53,132 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:04:53,368 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85826
+[INFO ] 2018-09-27 21:04:53,368 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:04:58,370 method:fomo.buyIn(fomo.java:152)
+===================开始第42次检查=====================
+[INFO ] 2018-09-27 21:04:59,831 method:fomo.buyIn(fomo.java:158)
+交易数量：55 
+[INFO ] 2018-09-27 21:05:00,132 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:05:01,176 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85826
+[INFO ] 2018-09-27 21:05:01,176 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:05:03,132 method:fomo.buyIn(fomo.java:152)
+===================开始第30次检查=====================
+[INFO ] 2018-09-27 21:05:06,177 method:fomo.buyIn(fomo.java:152)
+===================开始第43次检查=====================
+[INFO ] 2018-09-27 21:05:08,402 method:fomo.buyIn(fomo.java:158)
+交易数量：117 
+[INFO ] 2018-09-27 21:05:08,692 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:05:09,342 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85802
+[INFO ] 2018-09-27 21:05:09,342 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:05:14,349 method:fomo.buyIn(fomo.java:152)
+===================开始第44次检查=====================
+[INFO ] 2018-09-27 21:05:15,126 method:fomo.buyIn(fomo.java:158)
+交易数量：127 
+[INFO ] 2018-09-27 21:05:15,530 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:05:16,268 method:fomo.buyIn(fomo.java:158)
+交易数量：110 
+[INFO ] 2018-09-27 21:05:16,343 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85802
+[INFO ] 2018-09-27 21:05:16,343 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:05:17,000 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:05:17,579 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85802
+[INFO ] 2018-09-27 21:05:17,579 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:05:22,580 method:fomo.buyIn(fomo.java:152)
+===================开始第45次检查=====================
+[INFO ] 2018-09-27 21:05:25,106 method:fomo.buyIn(fomo.java:158)
+交易数量：104 
+[INFO ] 2018-09-27 21:05:25,631 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:05:26,344 method:fomo.buyIn(fomo.java:152)
+===================开始第31次检查=====================
+[INFO ] 2018-09-27 21:05:26,383 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85789
+[INFO ] 2018-09-27 21:05:26,383 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:05:31,397 method:fomo.buyIn(fomo.java:152)
+===================开始第46次检查=====================
+[INFO ] 2018-09-27 21:05:32,655 method:fomo.buyIn(fomo.java:158)
+交易数量：103 
+[INFO ] 2018-09-27 21:05:32,758 method:fomo.buyIn(fomo.java:158)
+交易数量：80 
+[INFO ] 2018-09-27 21:05:32,944 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:05:33,012 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:05:33,497 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85789
+[INFO ] 2018-09-27 21:05:33,497 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:05:33,540 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85789
+[INFO ] 2018-09-27 21:05:33,541 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:05:38,553 method:fomo.buyIn(fomo.java:152)
+===================开始第47次检查=====================
+[INFO ] 2018-09-27 21:05:40,179 method:fomo.buyIn(fomo.java:158)
+交易数量：79 
+[INFO ] 2018-09-27 21:05:40,441 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:05:41,048 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85769
+[INFO ] 2018-09-27 21:05:41,048 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:05:43,498 method:fomo.buyIn(fomo.java:152)
+===================开始第32次检查=====================
+[INFO ] 2018-09-27 21:05:46,048 method:fomo.buyIn(fomo.java:152)
+===================开始第48次检查=====================
+[INFO ] 2018-09-27 21:05:47,628 method:fomo.buyIn(fomo.java:158)
+交易数量：79 
+[INFO ] 2018-09-27 21:05:47,920 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:05:48,881 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85769
+[INFO ] 2018-09-27 21:05:48,881 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:05:52,815 method:fomo.buyIn(fomo.java:158)
+交易数量：79 
+[INFO ] 2018-09-27 21:05:53,224 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:05:53,882 method:fomo.buyIn(fomo.java:152)
+===================开始第49次检查=====================
+[INFO ] 2018-09-27 21:05:54,133 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85759
+[INFO ] 2018-09-27 21:05:54,133 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:05:55,096 method:fomo.buyIn(fomo.java:158)
+交易数量：67 
+[INFO ] 2018-09-27 21:05:55,377 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:05:55,917 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85759
+[INFO ] 2018-09-27 21:05:55,917 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:06:00,918 method:fomo.buyIn(fomo.java:152)
+===================开始第50次检查=====================
+[INFO ] 2018-09-27 21:06:02,438 method:fomo.buyIn(fomo.java:158)
+交易数量：106 
+[INFO ] 2018-09-27 21:06:02,782 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:06:03,454 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85759
+[INFO ] 2018-09-27 21:06:03,454 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:06:04,134 method:fomo.buyIn(fomo.java:152)
+===================开始第33次检查=====================
+[INFO ] 2018-09-27 21:06:08,229 method:fomo.buyIn(fomo.java:158)
+交易数量：106 
+[INFO ] 2018-09-27 21:06:08,455 method:fomo.buyIn(fomo.java:152)
+===================开始第51次检查=====================
+[INFO ] 2018-09-27 21:06:09,056 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:06:09,863 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85759
+[INFO ] 2018-09-27 21:06:09,863 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:06:09,878 method:fomo.buyIn(fomo.java:158)
+交易数量：107 
+[INFO ] 2018-09-27 21:06:10,349 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:06:10,905 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85759
+[INFO ] 2018-09-27 21:06:10,906 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:06:15,907 method:fomo.buyIn(fomo.java:152)
+===================开始第52次检查=====================
+[INFO ] 2018-09-27 21:06:18,375 method:fomo.buyIn(fomo.java:158)
+交易数量：96 
+[INFO ] 2018-09-27 21:06:18,661 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:06:19,556 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85769
+[INFO ] 2018-09-27 21:06:19,556 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:06:19,864 method:fomo.buyIn(fomo.java:152)
+===================开始第34次检查=====================
+[INFO ] 2018-09-27 21:06:24,556 method:fomo.buyIn(fomo.java:152)
+===================开始第53次检查=====================
+[INFO ] 2018-09-27 21:06:28,117 method:fomo.buyIn(fomo.java:158)
+交易数量：96 
+[INFO ] 2018-09-27 21:06:28,415 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:06:29,063 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85740
+[INFO ] 2018-09-27 21:06:29,063 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:06:34,064 method:fomo.buyIn(fomo.java:152)
+===================开始第54次检查=====================
+[INFO ] 2018-09-27 21:06:34,773 method:fomo.buyIn(fomo.java:158)
+交易数量：96 
+[INFO ] 2018-09-27 21:06:35,208 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:06:36,411 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85740
+[INFO ] 2018-09-27 21:06:36,411 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:06:36,856 method:fomo.buyIn(fomo.java:158)
+交易数量：96 
+[INFO ] 2018-09-27 21:06:37,116 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:06:37,641 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85725
+[INFO ] 2018-09-27 21:06:37,641 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:06:42,642 method:fomo.buyIn(fomo.java:152)
+===================开始第55次检查=====================
+[INFO ] 2018-09-27 21:06:45,356 method:fomo.buyIn(fomo.java:158)
+交易数量：112 
+[INFO ] 2018-09-27 21:06:46,136 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:06:46,412 method:fomo.buyIn(fomo.java:152)
+===================开始第35次检查=====================
+[INFO ] 2018-09-27 21:06:46,685 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85698
+[INFO ] 2018-09-27 21:06:46,686 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:06:51,686 method:fomo.buyIn(fomo.java:152)
+===================开始第56次检查=====================
+[INFO ] 2018-09-27 21:06:54,318 method:fomo.buyIn(fomo.java:158)
+交易数量：62 
+[INFO ] 2018-09-27 21:06:54,912 method:fomo.buyIn(fomo.java:158)
+交易数量：62 
+[INFO ] 2018-09-27 21:06:55,004 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:06:55,433 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:06:55,616 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85698
+[INFO ] 2018-09-27 21:06:55,617 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:06:56,242 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85698
+[INFO ] 2018-09-27 21:06:56,242 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:07:00,618 method:fomo.buyIn(fomo.java:152)
+===================开始第57次检查=====================
+[INFO ] 2018-09-27 21:07:02,468 method:fomo.buyIn(fomo.java:158)
+交易数量：64 
+[INFO ] 2018-09-27 21:07:03,119 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:07:03,695 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85698
+[INFO ] 2018-09-27 21:07:03,695 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:07:06,243 method:fomo.buyIn(fomo.java:152)
+===================开始第36次检查=====================
+[INFO ] 2018-09-27 21:07:08,696 method:fomo.buyIn(fomo.java:152)
+===================开始第58次检查=====================
+[INFO ] 2018-09-27 21:07:11,090 method:fomo.buyIn(fomo.java:158)
+交易数量：131 
+[INFO ] 2018-09-27 21:07:11,389 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:07:11,969 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85668
+[INFO ] 2018-09-27 21:07:11,969 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:07:14,743 method:fomo.buyIn(fomo.java:158)
+交易数量：62 
+[INFO ] 2018-09-27 21:07:15,010 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:07:15,841 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85665
+[INFO ] 2018-09-27 21:07:15,841 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:07:16,969 method:fomo.buyIn(fomo.java:152)
+===================开始第59次检查=====================
+[INFO ] 2018-09-27 21:07:18,792 method:fomo.buyIn(fomo.java:158)
+交易数量：165 
+[INFO ] 2018-09-27 21:07:19,053 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:07:19,859 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85662
+[INFO ] 2018-09-27 21:07:19,859 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:12:32,948 method:fomo.run(fomo.java:66)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-27 21:12:35,049 method:fomo.run(fomo.java:76)
+当前区块：6409225
+[INFO ] 2018-09-27 21:12:35,050 method:fomo.buyIn(fomo.java:152)
+===================开始第1次检查=====================
+[INFO ] 2018-09-27 21:12:37,151 method:fomo.buyIn(fomo.java:158)
+交易数量：131 
+[INFO ] 2018-09-27 21:12:37,422 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:12:37,931 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85367
+[INFO ] 2018-09-27 21:12:37,931 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:12:46,467 method:fomo.buyIn(fomo.java:152)
+===================开始第2次检查=====================
+[INFO ] 2018-09-27 21:12:49,015 method:fomo.buyIn(fomo.java:158)
+交易数量：110 
+[INFO ] 2018-09-27 21:12:49,271 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:12:49,778 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85367
+[INFO ] 2018-09-27 21:12:49,778 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:12:58,315 method:fomo.buyIn(fomo.java:152)
+===================开始第3次检查=====================
+[INFO ] 2018-09-27 21:13:00,822 method:fomo.buyIn(fomo.java:158)
+交易数量：131 
+[INFO ] 2018-09-27 21:13:01,046 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:13:01,508 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85354
+[INFO ] 2018-09-27 21:13:01,509 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:13:10,045 method:fomo.buyIn(fomo.java:152)
+===================开始第4次检查=====================
+[INFO ] 2018-09-27 21:13:14,075 method:fomo.buyIn(fomo.java:158)
+交易数量：143 
+[INFO ] 2018-09-27 21:13:14,331 method:fomo.buyIn(fomo.java:162)
+当前价格：377999745986938 
+[INFO ] 2018-09-27 21:14:16,869 method:fomo.run(fomo.java:66)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-27 21:14:19,556 method:fomo.run(fomo.java:76)
+当前区块：6409230
+[INFO ] 2018-09-27 21:14:19,557 method:fomo.buyIn(fomo.java:152)
+===================开始第1次检查=====================
+[INFO ] 2018-09-27 21:14:21,410 method:fomo.buyIn(fomo.java:158)
+交易数量：129 
+[INFO ] 2018-09-27 21:14:21,680 method:fomo.buyIn(fomo.java:162)
+当前价格：378009745986938 
+[INFO ] 2018-09-27 21:14:22,234 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86347
+[INFO ] 2018-09-27 21:14:22,234 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:14:22,234 method:fomo.buyIn(fomo.java:209)
+<<<<<<<<<<<<<等待时间: 8634
+[INFO ] 2018-09-27 21:14:30,868 method:fomo.buyIn(fomo.java:152)
+===================开始第2次检查=====================
+[INFO ] 2018-09-27 21:14:32,444 method:fomo.buyIn(fomo.java:158)
+交易数量：124 
+[INFO ] 2018-09-27 21:14:32,896 method:fomo.buyIn(fomo.java:162)
+当前价格：378009745986938 
+[INFO ] 2018-09-27 21:15:26,923 method:fomo.run(fomo.java:66)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-27 21:15:29,014 method:fomo.run(fomo.java:76)
+当前区块：6409234
+[INFO ] 2018-09-27 21:15:29,017 method:fomo.buyIn(fomo.java:152)
+===================开始第1次检查=====================
+[INFO ] 2018-09-27 21:16:14,072 method:fomo.run(fomo.java:66)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-27 21:16:16,297 method:fomo.run(fomo.java:76)
+当前区块：6409240
+[INFO ] 2018-09-27 21:16:16,300 method:fomo.buyIn(fomo.java:152)
+===================开始第1次检查=====================
+[INFO ] 2018-09-27 21:16:19,118 method:fomo.buyIn(fomo.java:158)
+交易数量：42 
+[INFO ] 2018-09-27 21:16:19,394 method:fomo.buyIn(fomo.java:162)
+当前价格：378009745986938 
+[INFO ] 2018-09-27 21:16:19,918 method:fomo.buyIn(fomo.java:186)
+剩余时间: 86216
+[INFO ] 2018-09-27 21:16:19,918 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:16:19,918 method:fomo.buyIn(fomo.java:209)
+<<<<<<<<<<<<<等待时间: 8621
+[INFO ] 2018-09-27 21:22:39,420 method:fomo.run(fomo.java:66)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-27 21:22:41,573 method:fomo.run(fomo.java:76)
+当前区块：6409269
+[INFO ] 2018-09-27 21:22:41,576 method:fomo.buyIn(fomo.java:152)
+===================开始第1次检查=====================
+[INFO ] 2018-09-27 21:22:42,366 method:fomo.buyIn(fomo.java:158)
+交易数量：21 
+[INFO ] 2018-09-27 21:22:42,677 method:fomo.buyIn(fomo.java:162)
+当前价格：378009745986938 
+[INFO ] 2018-09-27 21:22:43,630 method:fomo.buyIn(fomo.java:186)
+剩余时间: 85863
+[INFO ] 2018-09-27 21:22:43,630 method:fomo.buyIn(fomo.java:188)
+大于30秒，继续等待 
+[INFO ] 2018-09-27 21:22:43,630 method:fomo.buyIn(fomo.java:212)
+<<<<<<<<<<<<<继续等待 8586 秒

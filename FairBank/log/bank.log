@@ -1,0 +1,108 @@
+[INFO ] 2018-09-30 00:05:42,519 method:fairbank.run(fairbank.java:67)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-30 00:05:43,263 method:fairbank.run(fairbank.java:77)
+当前区块：6422158
+[INFO ] 2018-09-30 00:05:43,264 method:fairbank.buyIn(fairbank.java:140)
+===================开始第1次检查=====================
+[INFO ] 2018-09-30 00:05:44,363 method:fairbank.buyIn(fairbank.java:146)
+交易数量：121 
+[INFO ] 2018-09-30 00:07:41,402 method:fairbank.run(fairbank.java:67)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-30 00:07:41,960 method:fairbank.run(fairbank.java:77)
+当前区块：6422170
+[INFO ] 2018-09-30 00:07:41,961 method:fairbank.buyIn(fairbank.java:140)
+===================开始第1次检查=====================
+[INFO ] 2018-09-30 00:07:42,659 method:fairbank.buyIn(fairbank.java:146)
+交易数量：42 
+[INFO ] 2018-09-30 00:12:34,692 method:fairbank.run(fairbank.java:68)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-30 00:12:45,650 method:fairbank.run(fairbank.java:68)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-30 00:12:46,117 method:fairbank.run(fairbank.java:78)
+当前区块：6422194
+[INFO ] 2018-09-30 00:12:46,118 method:fairbank.buyIn(fairbank.java:141)
+===================开始第1次检查=====================
+[INFO ] 2018-09-30 00:12:46,780 method:fairbank.buyIn(fairbank.java:147)
+交易数量：52 
+[INFO ] 2018-09-30 00:13:34,772 method:fairbank.run(fairbank.java:68)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-30 00:13:35,268 method:fairbank.run(fairbank.java:78)
+当前区块：6422200
+[INFO ] 2018-09-30 00:13:35,269 method:fairbank.buyIn(fairbank.java:141)
+===================开始第1次检查=====================
+[INFO ] 2018-09-30 00:13:35,809 method:fairbank.buyIn(fairbank.java:147)
+交易数量：15 
+[INFO ] 2018-09-30 00:15:57,011 method:fairbank.run(fairbank.java:68)
+Connected to Ethereum client version:Geth/v1.8.15-omnibus-255989da/linux-amd64/go1.10.1 
+[INFO ] 2018-09-30 00:16:12,741 method:fairbank.run(fairbank.java:68)
+Connected to Ethereum client version:Geth/v1.8.15-omnibus-255989da/linux-amd64/go1.10.1 
+[INFO ] 2018-09-30 00:16:13,244 method:fairbank.run(fairbank.java:78)
+当前区块：6422209
+[INFO ] 2018-09-30 00:16:13,245 method:fairbank.buyIn(fairbank.java:141)
+===================开始第1次检查=====================
+[INFO ] 2018-09-30 00:16:13,939 method:fairbank.buyIn(fairbank.java:147)
+交易数量：86 
+[INFO ] 2018-09-30 00:19:56,866 method:fairbank.run(fairbank.java:68)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-30 00:19:57,412 method:fairbank.run(fairbank.java:78)
+当前区块：6422224
+[INFO ] 2018-09-30 00:19:57,412 method:fairbank.buyIn(fairbank.java:141)
+===================开始第1次检查=====================
+[INFO ] 2018-09-30 00:19:58,187 method:fairbank.buyIn(fairbank.java:147)
+交易数量：70 
+[INFO ] 2018-09-30 00:20:25,310 method:fairbank.run(fairbank.java:67)
+Connected to Ethereum client version:Geth/v1.8.15-omnibus-255989da/linux-amd64/go1.10.1 
+[INFO ] 2018-09-30 00:20:25,818 method:fairbank.run(fairbank.java:77)
+当前区块：6422225
+[INFO ] 2018-09-30 00:20:25,819 method:fairbank.buyIn(fairbank.java:140)
+===================开始第1次检查=====================
+[INFO ] 2018-09-30 00:20:26,547 method:fairbank.buyIn(fairbank.java:146)
+交易数量：81 
+[INFO ] 2018-09-30 00:23:09,175 method:fairbank.run(fairbank.java:67)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-30 00:23:50,758 method:fairbank.run(fairbank.java:67)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-30 00:23:58,910 method:fairbank.run(fairbank.java:67)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-30 00:23:59,463 method:fairbank.run(fairbank.java:77)
+当前区块：6422245
+[INFO ] 2018-09-30 00:23:59,464 method:fairbank.buyIn(fairbank.java:140)
+===================开始第1次检查=====================
+[INFO ] 2018-09-30 00:24:00,087 method:fairbank.buyIn(fairbank.java:146)
+交易数量：35 
+[INFO ] 2018-09-30 00:32:41,157 method:fairbank.run(fairbank.java:67)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-30 00:32:41,676 method:fairbank.run(fairbank.java:77)
+当前区块：6422288
+[INFO ] 2018-09-30 00:32:41,677 method:fairbank.buyIn(fairbank.java:140)
+===================开始第1次检查=====================
+[INFO ] 2018-09-30 00:32:42,401 method:fairbank.buyIn(fairbank.java:146)
+交易数量：94 
+[INFO ] 2018-09-30 00:49:08,414 method:fairbank.run(fairbank.java:67)
+Connected to Ethereum client version:Geth/v1.8.13-patched-infura-omnibus-b59d4428/linux-amd64/go1.9.2 
+[INFO ] 2018-09-30 00:49:08,936 method:fairbank.run(fairbank.java:77)
+当前区块：6422358
+[INFO ] 2018-09-30 00:49:08,936 method:fairbank.buyIn(fairbank.java:140)
+===================开始第1次检查=====================
+[INFO ] 2018-09-30 00:49:12,456 method:fairbank.buyIn(fairbank.java:146)
+交易数量：68 
+[INFO ] 2018-09-30 00:49:12,739 method:fairbank.buyIn(fairbank.java:158)
+当前轮次：1
+[INFO ] 2018-09-30 00:49:12,739 method:fairbank.buyIn(fairbank.java:159)
+当前阶段：88
+[INFO ] 2018-09-30 00:49:12,740 method:fairbank.buyIn(fairbank.java:160)
+当前时间：1538239752
+[INFO ] 2018-09-30 00:49:12,740 method:fairbank.buyIn(fairbank.java:161)
+本阶段结束时间：1538261140
+[INFO ] 2018-09-30 00:49:12,740 method:fairbank.buyIn(fairbank.java:162)
+已筹集金额：4373231626356924519
+[INFO ] 2018-09-30 00:49:12,740 method:fairbank.buyIn(fairbank.java:163)
+目标筹集金额：6291153487486290585
+[INFO ] 2018-09-30 00:49:12,740 method:fairbank.buyIn(fairbank.java:164)
+奖池金额：252617829345606508372
+[INFO ] 2018-09-30 00:49:12,740 method:fairbank.buyIn(fairbank.java:178)
+剩余时间: 21388
+[INFO ] 2018-09-30 00:49:12,740 method:fairbank.buyIn(fairbank.java:180)
+大于60秒，继续等待 
+[INFO ] 2018-09-30 00:49:12,740 method:fairbank.buyIn(fairbank.java:200)
+<<<<<<<<<<<<<继续等待2138秒
