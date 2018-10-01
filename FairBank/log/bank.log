@@ -380,3 +380,43 @@ retry result: 989539870000000000 number: 1
 <<<<<<<<<< 时间足够，离结束还有 63794 秒
 [INFO ] 2018-09-30 21:07:21,638 method:fairbank.App.startBuyKeyLastKey(App.java:185)
 <<<<<<<<<<<<<继续等待6379秒
+[INFO ] 2018-10-01 16:20:06,649 method:fairbank.App.startBuyKeyLastKey(App.java:119)
+========== 开始抢Key BANK ==========
+[INFO ] 2018-10-01 16:20:06,651 method:fairbank.App.startBuyKeyLastKey(App.java:129)
+=============开始第 1 次检查================
+[INFO ] 2018-10-01 16:20:06,653 method:fairbank.App.startBuyKeyLastKey(App.java:132)
+合约: 0xB8F93e49A3278bb92f643Ca2491cf80bfa0a01b7
+[INFO ] 2018-10-01 16:20:06,653 method:fairbank.App.startBuyKeyLastKey(App.java:134)
+<<<<<<<<<< Step 1 查看剩余时间
+[INFO ] 2018-10-01 16:21:36,090 method:fairbank.App.startBuyKeyLastKey(App.java:119)
+========== 开始抢Key BANK ==========
+[INFO ] 2018-10-01 16:21:36,093 method:fairbank.App.startBuyKeyLastKey(App.java:129)
+=============开始第 1 次检查================
+[INFO ] 2018-10-01 16:21:36,094 method:fairbank.App.startBuyKeyLastKey(App.java:132)
+合约: 0xB8F93e49A3278bb92f643Ca2491cf80bfa0a01b7
+[INFO ] 2018-10-01 16:21:36,094 method:fairbank.App.startBuyKeyLastKey(App.java:134)
+<<<<<<<<<< Step 1 查看剩余时间
+[INFO ] 2018-10-01 16:21:38,264 method:fairbank.manager.ContractManager.getCurrentInfo(ContractManager.java:274)
+target 0xB8F93e49A3278bb92f643Ca2491cf80bfa0a01b7 End Time:1538432466 amounts:3000000000000000000 targetAmount: 4182027272727272727
+[INFO ] 2018-10-01 16:21:38,265 method:fairbank.manager.ContractManager$1.onRetry(ContractManager.java:78)
+retry result: Tuple3{value1=1538432466, value2=3000000000000000000, value3=4182027272727272727} number: 1
+[INFO ] 2018-10-01 16:21:38,265 method:fairbank.App.startBuyKeyLastKey(App.java:142)
+离结束还有 50368 秒
+[INFO ] 2018-10-01 16:21:38,265 method:fairbank.App.startBuyKeyLastKey(App.java:143)
+已筹款 3000000000000000000
+[INFO ] 2018-10-01 16:21:38,265 method:fairbank.App.startBuyKeyLastKey(App.java:144)
+筹款目标 4182027272727272727
+[INFO ] 2018-10-01 16:21:38,716 method:fairbank.manager.ContractManager.getCurrentBalance(ContractManager.java:207)
+账户余额 : 0
+[INFO ] 2018-10-01 16:21:38,717 method:fairbank.manager.ContractManager$1.onRetry(ContractManager.java:78)
+retry result: 0 number: 1
+[INFO ] 2018-10-01 16:21:38,717 method:fairbank.App.startBuyKeyLastKey(App.java:149)
+账户余额 0
+[INFO ] 2018-10-01 16:21:38,718 method:fairbank.App.startBuyKeyLastKey(App.java:150)
+花费金额 118202727272727272
+[ERROR] 2018-10-01 16:21:38,719 method:fairbank.App.startBuyKeyLastKey(App.java:153)
+余额不足
+[INFO ] 2018-10-01 16:21:38,719 method:fairbank.App.startBuyKeyLastKey(App.java:162)
+<<<<<<<<<< 时间足够，离结束还有 50368 秒
+[INFO ] 2018-10-01 16:21:38,720 method:fairbank.App.startBuyKeyLastKey(App.java:185)
+<<<<<<<<<<<<<继续等待5036秒

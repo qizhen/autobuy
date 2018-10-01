@@ -204,7 +204,7 @@ public class ContractManager {
 		if (web3j != null) {
 			try {
 				balance = web3j.ethGetBalance(accounts.get(0).getCredentials().getAddress(), DefaultBlockParameterName.LATEST).send().getBalance();
-				log.info("账户余额 : {}" , balance);
+				//log.info("账户余额 : {}" , balance);
 				return balance;
 
 			} catch (Exception e) {
